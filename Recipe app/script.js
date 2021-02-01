@@ -173,7 +173,7 @@ searchBtn.addEventListener("click", async () => {
             addMeal(meal);
         });
     }else{
-        alert("Sorry ..we could reach your recipe");
+        alert("Sorry ..we could'nt reach your recipe");
     }
 
 });
